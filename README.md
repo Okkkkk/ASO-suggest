@@ -1,2 +1,2 @@
-# ASO-suggest
-Cool ASO tool, witch helps us to collect a semantic core
+# one-line
+connect the dots
